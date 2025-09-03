@@ -5,8 +5,7 @@ Each folder represents a specific concept, starting from basics to advanced Data
 
 ---
 
-## 📂 Topics Covered (with Subtopics & Days)  
-
+## 📂 Topics Covered 
 ### 🔹 Basics of Java  
 - **Day 001** – Variable & Data Types  
 - **Day 002** – Operators  
